@@ -25,7 +25,7 @@ Run the command "npm start"
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
 
 ![Screenshot (144)](https://github.com/PiumiR/CBA-test/assets/68690570/183a4544-9861-48ce-ae78-17afc20800c0)
 
